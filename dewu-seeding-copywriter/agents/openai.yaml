@@ -1,4 +1,4 @@
 interface:
   display_name: "得物种草文案生成器"
-  short_description: "输入货号，先查图确认款式，再生成得物文案"
-  default_prompt: "使用 $dewu-seeding-copywriter，根据商品货号先搜索候选图片并让用户确认款式，确认后再生成得物种草文案。"
+  short_description: "输入货号，确认款式后生成文案和测评图"
+  default_prompt: "使用 $dewu-seeding-copywriter，根据商品货号先搜索候选图片并让用户确认款式，确认后生成得物种草文案和 3 到 5 张真实测评风格图片。"
