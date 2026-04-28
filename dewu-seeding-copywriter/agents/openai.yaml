@@ -1,4 +1,4 @@
 interface:
   display_name: "得物种草文案生成器"
-  short_description: "根据 SKU 商品信息生成得物真实用户分享风格文案"
-  default_prompt: "使用 $dewu-seeding-copywriter，根据解析后的 SKU 商品信息生成得物种草文案 JSON。"
+  short_description: "输入货号，生成得物真实用户分享风格文案"
+  default_prompt: "使用 $dewu-seeding-copywriter，根据商品货号生成适合直接复制的得物种草文案。"
